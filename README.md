@@ -22,5 +22,6 @@ The factory pattern is used to create different types of attacks for the warrior
 
 ## Project Structure
 
+![image](https://github.com/Nur-Asyl/SDP-Final/assets/115444874/f6be02d6-990b-4505-a155-ae92d2adacb9)
 
 Unnable to find diagrams for the selected items
