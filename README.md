@@ -1,6 +1,6 @@
 # Final Project
 ## Mage and Warrior
-This project demonstrates the implementation of various design patterns in a game context. It features a warrior and a mage class, each with their unique set of attacks and spells. The project employs the following design patterns:
+This project demonstrates the implementation of various design patterns in a game context. It features a warrior and a mage class, each with a unique set of attacks and spells. The project employs the following design patterns:
 
 ### Strategy: 
 The strategy pattern is used to define different attack and spell behaviors for the warrior and mage classes.
